@@ -5,7 +5,6 @@ Code for replicating the numerical experiments in
 RR Lederman, B Toader. __On Manifold Learning in Plato's Cave: Remarks on Manifold Learning and Physical Phenomena__._arXiv preprint [arXiv:2304.14248](https://arxiv.org/pdf/2304.14248)_
 
 
-
 ## Requirements
 
 The requirements are minimal (jax, numpy, matplotlib, jupyter). A conda environment can be created using the provided yml file:
@@ -14,7 +13,6 @@ The requirements are minimal (jax, numpy, matplotlib, jupyter). A conda environm
 conda env create -f environment.yml
 conda activate jax_minimal
 ```
-
 
 
 ## Running the numerical experiments
@@ -28,7 +26,6 @@ The numerical experiments are in the ``notebooks`` directory.
 * ``experiment_top.ipynb``: Generates the plots in Appendix A.4 showing the embedding of the images from the top view (Fig. 9).
 
   
-
 ## Citation
 
 If you found this code useful in academic work, please cite: ([arXiv link](https://arxiv.org/pdf/2304.14248))
