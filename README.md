@@ -2,7 +2,9 @@
 
 Code for replicating the numerical experiments in
 
-RR Lederman, B Toader. __On Manifold Learning in Plato's Cave: Remarks on Manifold Learning and Physical Phenomena__. _arXiv preprint [arXiv:2304.14248](https://arxiv.org/pdf/2304.14248)_
+RR Lederman, B Toader. __On Manifold Learning in Plato's Cave: Remarks on Manifold Learning and Physical Phenomena__. _International Conference on Sampling Theory and Applications (SampTA)_, 2023.
+
+arXiv link: [arXiv:2304.14248](https://arxiv.org/pdf/2304.14248)
 
 
 ## Requirements
@@ -34,7 +36,7 @@ If you found this code useful in academic work, please cite: ([arXiv link](https
 @article{lederman2023manifold,
     title = {On {Manifold} {Learning} in {Plato}'s {Cave}: {Remarks} on {Manifold} {Learning} and {Physical} {Phenomena}},
     author = {Lederman, Roy R. and Toader, Bogdan},
-    journal = {arXiv:2304.14248},
+    journal = {International Conference on Sampling Theory and Applications (SampTA 2023),},
     year = {2023},
 }
 ```
