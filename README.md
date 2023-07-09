@@ -36,7 +36,7 @@ If you found this code useful in academic work, please cite: ([arXiv link](https
 @article{lederman2023manifold,
     title = {On {Manifold} {Learning} in {Plato}'s {Cave}: {Remarks} on {Manifold} {Learning} and {Physical} {Phenomena}},
     author = {Lederman, Roy R. and Toader, Bogdan},
-    journal = {International Conference on Sampling Theory and Applications (SampTA 2023),},
+    journal = {International Conference on Sampling Theory and Applications (SampTA 2023)},
     year = {2023},
 }
 ```
